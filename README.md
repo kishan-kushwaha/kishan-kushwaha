@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kishan kumar
 - 👀 I’m interested in technology.
-- 🌱 I’m currently doing data science project.
-- 💞️ I’m looking a job in data science field or full stack developer.
+- 🌱 I’m currently doing job in phenom people.
+- 💞️ I’m looking a job in full stack developer.
 - 📫 How to reach me - mail me : kishankumarom01@gmail.com 
 You can also check my resume.
 

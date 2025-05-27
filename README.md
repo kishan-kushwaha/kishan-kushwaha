@@ -2,8 +2,7 @@
 - 👀 I’m interested in technology.
 - 🌱 I’m currently doing job in phenom people.
 - 💞️ I’m looking a job in full stack developer.
-- 📫 How to reach me - mail me : mcs24032@iiitl.ac.in
--                                 kksde2004@gmail.com 
+- 📫 How to reach me - mail me : mcs24032@iiitl.ac.in and  kksde2004@gmail.com 
 You can also check my resume.
 
 
